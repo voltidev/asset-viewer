@@ -20,7 +20,7 @@ button {
   cursor: pointer;
 }
 
-svg {
+.tab-bar svg, .sidebar svg, .actions-bar svg {
   fill: currentColor;
   pointer-events: none;
 }
